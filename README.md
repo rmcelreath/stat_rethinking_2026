@@ -68,7 +68,7 @@ The new lectures for 2026 will appear as links in the table below. There is a se
 | Week ## | Meeting date | Section | Topic | Reading |
 | ------- | ----------- | ---------- | ------------------------- | ------------|
 | 01 | 6 January | Beginner | <[Introduction](https://www.youtube.com/watch?v=ztbYkBPDOgU)> | Chapters 1 & 2 
-|    | 9 January | Experienced | Multilevel Models | Chapter 12 
+|    | 9 January | Experienced | <[Multilevel Models](https://www.youtube.com/watch?v=jh3RltVrQ-Q)> | Chapter 12 
 | 02 | 13 January | Beginner | Garden of Forking Data | Chapters 2 & 3
 |    | 16 January | Experienced | Adventures in Covariance | Chapter 13 
 | 03 | 20 January | Beginner | Geocentric Models | Chapter 4
