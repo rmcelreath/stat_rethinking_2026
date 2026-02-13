@@ -86,7 +86,7 @@ There is a set of recorded lectures from 2023 that might also be of use, either 
 | 05 | 3 February | Beginner | <[Estimands and Estiplans](https://www.youtube.com/watch?v=sYE8a95x-0E)> | Chapters 4 and 5
 |    | 6 February | Experienced | <[Social Networks II](https://www.youtube.com/watch?v=5oZA8FBn2fc)> | Chapter 14 
 | 06 | 10 February | Beginner | <[Elemental Confounds I](https://www.youtube.com/watch?v=lGR7D45Ww38)> | Chapter 6
-|    | 13 February | Experienced | Gaussian Processes | Chapter 15 
+|    | 13 February | Experienced | <[Gaussian Processes](https://www.youtube.com/watch?v=MtXg7fxQgeA)> | Chapter 15 
 | 07 | 17 February | Beginner | Overfitting | Chapter 7
 |    | 20 February | Experienced | Measurement Error | Chapter 15 
 | 08 | 24 February | Beginner | Markov chain Monte Carlo | Chapters 9 & 10
