@@ -90,7 +90,7 @@ There is a set of recorded lectures from 2023 that might also be of use, either 
 | 07 | 17 February | Beginner | <[Good and Bad Controls](https://www.youtube.com/watch?v=sTieMzOcreQ)> | Chapter 6
 |    | 20 February | Experienced | <[Measurement Models](https://www.youtube.com/watch?v=IkWcbiwymi4)> | Chapter 15 
 | 08 | 24 February | Beginner | <[MCMC and Item Response Models](https://www.youtube.com/watch?v=N_LRQUrdHag)> | Chapters 9 & 10
-|    | 27 February | Experienced | Missing Data | Chapter 15 
+|    | 27 February | Experienced | <[Missing and Censored Data](https://www.youtube.com/watch?v=VQm_toQpfEM)> | Chapter 15 
 | 09 | 3 March | Beginner | Modeling Events | Chapters 10 & 11
 |    | 6 March | Experienced | Generalized Linear Madness | Chapter 16
 | 10 | 10 March | Beginner | Multilevel Models | Chapter 12 
