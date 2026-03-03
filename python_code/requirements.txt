@@ -1,0 +1,10 @@
+jupyter
+seaborn
+statsmodels
+pymc
+ipywidgets
+numpy
+pandas
+scipy
+matplotlib
+arviz
